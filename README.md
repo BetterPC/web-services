@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quasar App (better-pc)
 
 A Quasar Project
@@ -39,3 +40,7 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+=======
+# web-services
+Here we will develop the BetterPC application
+>>>>>>> ac26925 (Initial commit)
